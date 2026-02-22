@@ -1,6 +1,7 @@
 {
   "name": "vini-editor-ai",
   "version": "1.0.0",
+  "license": "MIT",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +9,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
   "packageManager": "pnpm@10.20.0",
   "devDependencies": {
     "@types/node": "^25.3.0",
